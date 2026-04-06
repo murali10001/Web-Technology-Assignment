@@ -1,0 +1,9 @@
+Project: File Handling using Node.js (fs Module)
+
+1) Developed a simple Node.js application to demonstrate file handling operations using the built-in fs module.
+
+2)Implemented functionality to create/write data into a file and read data from the file asynchronously.
+
+3)Used callback-based and async/await approaches to handle file operations efficiently.
+
+4)Demonstrated basic concepts of asynchronous programming and error handling in Node.js.
